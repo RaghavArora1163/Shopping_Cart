@@ -1,4 +1,4 @@
-# Shopping Cart Assignment
+# Shopping Cart 
 
 ## Overview
 This project implements a simple shopping cart using JavaScript. The cart retrieves product prices from a mock Price API and calculates:
